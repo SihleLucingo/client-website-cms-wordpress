@@ -1,4 +1,3 @@
-# Client Website CMS WordPress Project
 # Client Website Management System (WordPress)
 
 ## 📌 Overview
